@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t-potatoes">
-    <title>Breakfast Potatoes</title>
+    <title>Best Ever Breakfast Potatoes</title>
     <shortdesc>These hearty and home style baked breakfast potatoes are so easy and will become a go-to recipe.</shortdesc>
     <taskbody>
         <prereq>Materials for this recipe include a large mixing bowl, a measuring cup, and a baking sheet. Ingredients are as follows: <ul>
@@ -43,6 +43,9 @@
             </step>
             <step audience="armando">
                 <cmd>Sprinkle with a little more salt and pepper before serving.</cmd>
+        <stepresult><fig id="potatoes">
+                        <title>Best Ever Breakfast Potatoes</title>
+                    </fig><image href="images/potatoes.jpg" id="image_bnt_4dp_jz"/></stepresult>
             </step>
         </steps>
     </taskbody>
