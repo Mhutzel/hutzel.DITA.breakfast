@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-potatoes">
+    <title>Breakfast Potatoes</title>
+    <shortdesc>These hearty and home style baked breakfast potatoes are so easy and will become a go-to recipe.</shortdesc>
+    <taskbody>
+        <prereq>Materials for this recipe include a large mixing bowl, a measuring cup, and a baking sheet. Ingredients are as follows: <ul>
+        <li>5 pounds red potatoes, roughly chopped</li>
+        <li>4 cloves garlic, minced</li>
+        <li>1 onion, chopped</li>
+        <li>1 green bell pepper, seeded and roughly chopped</li>
+        <li>1 red bell pepper, seeded and roughly chopped</li>
+        <li> 1/4 cup olive oil</li>
+        <li audience="mom">1/2 stick butter melted</li>
+        <li audience="armando">1/2 stick Earth Balance Vegan Buttery Stick </li>
+        <li>1 teaspoon seasoned salt</li>
+        <li>1/2 teaspoon cayenne pepper</li>
+        <li>Kosher salt and freshly ground black pepper</li>
+        <li audience="mom">5 slices of cooked bacon, optional</li>
+       </ul>
+    </prereq>
+    <context>
+            <p>Directions:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Preheat oven to 425 degrees F</cmd>
+            </step>
+            <step audience="mom">
+                <cmd>In a large bowl, toss together the potatoes, garlic, onion, green bell pepper, red bell pepper, olive oil, butter, seasoned salt, cayenne pepper and some kosher salt and pepper.</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>In a large bowl, toss together the potatoes, garlic, onion, green bell pepper, red bell pepper, olive oil, Earth Balance Vegan Buttery Stick, seasoned salt, cayenne pepper and some kosher salt and pepper.</cmd>
+            </step>
+            <step>
+                <cmd>Bake for 20-25 minutes, shaking the pans twice</cmd>
+            </step>
+            <step>
+                <cmd>Raise the heat to 500 degrees and bake until crisp and brown, 10 to 15 minutes</cmd> 
+            </step>
+            <step audience="mom">
+                <cmd>Sprinkle with a little more salt and pepper and crumbled bacon bits (optional) before serving.</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Sprinkle with a little more salt and pepper before serving.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
