@@ -4,9 +4,15 @@
     <title>Simple Omelette</title>
     <shortdesc>An easy, savory, fluffy, and delicious omelette for breakfast lovers. This omelette can be filled and topped with anything you like! </shortdesc>
     <taskbody>
-        <prereq audience="mom">
-            For this recipe you will need an oven-safe skillet, a rubber spatula, and an oven mitt. Ingredients are as follows: <ul>
-             <li></li>
+        <prereq>
+            For this recipe you will need an oven-safe skillet, a rubber spatula, a food processor, and an oven mitt. Ingredients are as follows: <ul audience="armando">
+             <li>3/4 cups firm silken tofu, drained and gently patted dry</li>
+             <li>2 Tbsp Hummus</li>
+             <li>2 large garlic cloves, minced</li>
+             <li>2 Tbsp nutritional yeast</li>
+             <li>1/4 Tsp paprika</li>
+             <li>1 Tsp cornstarch</li>
+             <li conref="saltpepper"></li>
             </ul>
  
         </prereq>
@@ -16,10 +22,22 @@
              <li>Cook time: 25 minutes</li>
              <li>Serves: 1</li>
             </ul>  
+            
+           <p>Directions:</p>
+      
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Preheat oven to 375 degrees F</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Prep veggies, drain and dry tofu, and mince garlic. Set aside</cmd>
+            </step>
+            <step>
+                <cmd>Heat a small-to-medium, oven-safe skillet over medium heat. Once hot, add olive oil and minced garlic and cook for 1-2 minutes or until just lightly golden brown</cmd>
+            </step>
+            <step>
+                <cmd>Transfer garlic to food processor, along with remaining omelet ingredients (tofu – cornstarch) and mix to combine, scraping down sides as needed. Add just a touch of water to thin – 1-2 Tbsp at most. Set aside</cmd>
             </step>
         </steps>
     </taskbody>
