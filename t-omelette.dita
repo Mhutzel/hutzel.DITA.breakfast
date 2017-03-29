@@ -4,7 +4,7 @@
     <title>Simple Omelette</title>
     <shortdesc>An easy, savory, fluffy, and delicious omelette for breakfast lovers. This omelette can be filled and topped with anything you like! </shortdesc>
     <taskbody>
-        <prereq>
+        <prereq audience="armando">
             For this recipe you will need an oven-safe skillet, a rubber spatula, a food processor, and an oven mitt. Ingredients are as follows: <ul audience="armando">
              <li>3/4 cups firm silken tofu, drained and gently patted dry</li>
              <li>2 Tbsp Hummus</li>

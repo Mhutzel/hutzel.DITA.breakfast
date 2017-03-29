@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-smoothie">
+    <title>Peanut Butter Oatmeal Smoothie</title>
+    <shortdesc>This smoothie is packed with protein and will satisfy your sweet tooth to save you from reaching for that doughnut</shortdesc>
+    <taskbody>
+        <prereq>For this recipe you will need a blender. Ingredients are as follows:            <ul>
+            <li audience="armando">1/2 cup soy milk</li>
+            <li>1/2 cup milk</li>
+            <li>2 Tbsp peanut butter</li>
+            <li>1 whole banana</li>
+            <li>1/4 cup old-fashioned oats</li>
+        </ul>
+        </prereq>
+        <context>
+            <ul>
+                <li>Prep time: 2 minutes</li>
+                <li>Cook time: 5 minutes</li>
+                <li>Serves: 1</li>
+            </ul>
+            <p>Directions:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Add all ingredients to the blender.</cmd>
+                <info> <note type="caution">Be sure that the blender is unplugged and in an "off" position while adding ingredients or stirring. The blades are sharp and could cause injury if not careful. </note></info>
+            </step>
+            <step>
+                <cmd>Blend on a medium speed for 30 seconds then turn blender off</cmd>
+            </step>
+            <step>
+                <cmd>Remove lid and stir ingredients</cmd>
+                <info><note type="caution"></note></info>
+            </step>
+            <step>
+                <cmd>Place lid back on blender and blend on a medium speed for 30-60 seconds until smoothie is at desired consistency</cmd>
+            </step>
+            <step>
+                <cmd>Pour smoothie into glass and garnish with banana slices if desired</cmd>
+            </step>
+            <step>
+                <cmd>Serve immediately or place in refrigerate until ready to eat</cmd>
+                <stepresult>This smoothie will fill you up without weighing you down. Because you chose a healthier alternative for breakfast, you can eat more dessert at dinnertime!<fig><image href="images/smoothie.jpg"></image></fig>
+                </stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>
