@@ -13,7 +13,7 @@
              <li>1/4 Tsp paprika</li>
              <li>1 Tsp cornstarch</li>
              <li>1 cup of veggies of choice</li>
-             <li conref="saltpepper"></li>
+             <li id="saltpepper"></li>
             </ul>
             <ul audience="mom">
               <li>2 eggs</li>

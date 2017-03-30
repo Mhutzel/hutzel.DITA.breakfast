@@ -15,7 +15,7 @@
         <li audience="armando">1/2 stick Earth Balance Vegan Buttery Stick </li>
         <li>1 teaspoon seasoned salt</li>
         <li>1/2 teaspoon cayenne pepper</li>
-        <li conref="#saltpepper">Kosher salt and freshly ground black pepper to taste</li>
+        <li id="saltpepper">Kosher salt and freshly ground black pepper to taste</li>
         <li audience="mom">5 slices of cooked bacon, crumbled (optional)</li>
        </ul>
     </prereq>
