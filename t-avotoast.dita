@@ -12,18 +12,45 @@
                     <note>Peel back the stem of the avocado to check for ripeness. If it comes away easily and is green underneath it is ripe and ready to eat. </note>
                 </li>
                 <li>1 lime, halved</li>
-                <li conref="#saltpepper"></li>
+                <li id="saltpepper"></li>
                 <li>optional: chili flakes to taste</li>
-                <li>2 slices of bread <note audience="armando">Check out this list of breads to be sure that you're buying vegan.</note></li>               
+                <li>2 slices of bread</li>               
             </ul>
             
         </prereq>
         <context>
-            <p></p>
+            <ul>
+                <li>Prep time: 10 minutes</li>
+                <li audience="armando">Cook time: 15 minutes </li>
+                <li>Cook time: 5 minutes</li>
+                <li>Serves: 1</li>
+            </ul>
+            <p>Directions:</p>
         </context>
         <steps>
+            <step audience="armando">
+                <cmd>Add the oil to a large skillet over medium-high heat. Add in the sliced mushrooms and sauté for 8-12 minutes or until golden brown, stirring occasionally but not too often</cmd>
+            </step>
             <step>
-                <cmd></cmd>
+                <cmd>Slice open the avocado</cmd>
+                <substeps>
+                <substep audience="armando">
+                    <cmd>Grip the avocado gently on one side with one hand. With a sharp knife, cut the avocado lengthwise around the pit</cmd>
+                </substep>
+                <substep audience="armando">
+                    <cmd>Gently tap the pit with a knife with enough force so that the knife edge wedges into the pit, but not so hard as to cut all the way through it</cmd>
+                </substep>
+                <substep audience="armando">
+                    <cmd>With the edge of the knife, twist the pit out of the avocado and discard</cmd>
+                </substep>
+                </substeps>
+                <step>
+                    <cmd>Add the flesh of the avocado to a bowl along with the juice of one lime.</cmd>
+                </step>
+                    <cmd>Use a fork to mash the avocado and season with salt and pepper and chili flakes (optional)</cmd>
+                </step>
+            <step>
+                <cmd>Toast the slices of bread</cmd> <note audience="armando">Check out this list of breads to be sure that you're buying vegan.</note>
             </step>
         </steps>
     </taskbody>
