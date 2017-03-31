@@ -20,6 +20,7 @@
   </keydef>
   
  <topicref href="c-breakfast.dita"/>
+ <topicref href="navigate.md" format="markdown"></topicref>
  <topicref href="t-omelette.dita"/>
  <topicref href="t-avotoast.dita"/>
  <topicref href="t-potatoes.dita"/>
