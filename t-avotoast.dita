@@ -8,7 +8,7 @@
             <ul>
                 <li>2 slices cooked bacon, crumbled</li>
                 <li audience="armando">6 oz baby Portobello mushrooms, washed and sliced</li>
-                <li audience="armando">1 1/2 Tbsp olive oil</li> 
+                <li audience="armando">1 1/2 tbsp olive oil</li> 
                 <li>1 avocado
                     <note>Peel back the stem of the avocado to check for ripeness. If it comes away easily and is green underneath it is ripe and ready to eat. </note>
                 </li>
@@ -65,7 +65,14 @@
             </step>
             <step>
                 <cmd>Serve immediately</cmd>
+                <stepresult audience="armando">
+                    <fig><image href="images/armandotoast.jpg"></image></fig>
+                </stepresult>
+                <stepresult audience="mom">
+                    <fig><image href="images/momtoast.jpg"></image></fig>
+                </stepresult>
             </step>
         </steps>
+        <postreq></postreq>
     </taskbody>
 </task>
