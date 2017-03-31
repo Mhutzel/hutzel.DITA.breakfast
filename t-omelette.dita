@@ -67,7 +67,7 @@
            <step>
                <cmd>Serve with desired toppings and enjoy</cmd>
             <stepresult>You should expect a full stomach after enjoying this wholesome omelette!<fig>
-                        <image href="images/omelette.jpg"/>
+                        <image href="images/omelette.jpg"></image>
                     </fig></stepresult>
            </step>
         </steps>

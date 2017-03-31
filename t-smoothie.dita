@@ -40,9 +40,10 @@
             </step>
             <step>
                 <cmd>Serve immediately or place in refrigerate until ready to eat</cmd>
-                <stepresult>This smoothie will fill you up without weighing you down. Because you chose a healthier alternative for breakfast, you can eat more dessert at dinnertime!<fig><image href="images/smoothie.jpg"></image></fig>
+                <stepresult><fig><image href="images/smoothie.jpg"></image></fig>
                 </stepresult>
             </step>
         </steps>
+        <postreq>This smoothie will fill you up without weighing you down. Because you chose a healthier alternative for breakfast, you can eat more dessert at dinnertime!</postreq>
     </taskbody>
 </task>
