@@ -6,7 +6,8 @@
     <taskbody>
         <prereq> This recipe requires a skillet and a knife. You will also need the following ingredients:
             <ul>
-                <li audience="armando">6 oz baby portobello mushrooms, washed and sliced</li>
+                <li>2 slices cooked bacon, crumbled</li>
+                <li audience="armando">6 oz baby Portobello mushrooms, washed and sliced</li>
                 <li audience="armando">1 1/2 Tbsp olive oil</li> 
                 <li>1 avocado
                     <note>Peel back the stem of the avocado to check for ripeness. If it comes away easily and is green underneath it is ripe and ready to eat. </note>
@@ -14,9 +15,9 @@
                 <li>1 lime, halved</li>
                 <li id="saltpepper"></li>
                 <li>optional: chili flakes to taste</li>
+                <li>optional: crumbled goat cheese to taste</li>
                 <li>2 slices of bread</li>               
-            </ul>
-            
+            </ul>           
         </prereq>
         <context>
             <ul>
@@ -35,24 +36,35 @@
                 <cmd>Slice open the avocado</cmd>
                 <substeps>
                 <substep audience="armando">
-                    <cmd>Grip the avocado gently on one side with one hand. With a sharp knife, cut the avocado lengthwise around the pit</cmd>
+                    <cmd>Grip the avocado gently on one side with one hand. With a sharp knife, cut the avocado lengthwise around the pit and twist to split the avocado in half</cmd>
                 </substep>
                 <substep audience="armando">
                     <cmd>Gently tap the pit with a knife with enough force so that the knife edge wedges into the pit, but not so hard as to cut all the way through it</cmd>
                 </substep>
                 <substep audience="armando">
                     <cmd>With the edge of the knife, twist the pit out of the avocado and discard</cmd> 
-                    <info><note>This method is tricky and you must be careful not to cut your hand. For safety, fold up a kitchen towel and use that to hold the avocado half with the pit</note></info>
+                    <info> <note id="caution"> This method is tricky and you must be careful so you don't cut your hand. For safety, fold up a kitchen towel and use that to hold the avocado half with the pit</note></info>
                 </substep>
                 </substeps>
-                <step>
-                    <cmd>Add the flesh of the avocado to a bowl along with the juice of one lime.</cmd>
                 </step>
-                    <cmd>Use a fork to mash the avocado and season with salt and pepper and chili flakes (optional)</cmd>
+                <step>
+                    <cmd>Add the flesh of the avocado to a bowl along with the juice of one lime</cmd>
+                </step>
+                <step>
+                    <cmd>Use a fork to mash the avocado and season with salt, pepper and chili flakes (optional)</cmd>
                 </step>
             <step>
                 <cmd>Toast the slices of bread</cmd> 
-                <info><note audience="armando">Check out this list of breads to be sure that you're buying vegan.</note></info>
+                <info><note audience="armando">Check out this <xref href="http://www.peta.org/living/food/baked-goods/" format="html" scope="external"> list of breads</xref>to be sure that you're buying vegan.</note></info>
+            </step>
+            <step audience="armando">
+                <cmd>To assemble, slather the slices of toast with mashed avocado and top with sauteed mushrooms</cmd>
+            </step>
+            <step>
+                <cmd>To assemble, slather the slices of toast with mashed avocado and top with bacon and crumbled goat cheese (optional)</cmd>
+            </step>
+            <step>
+                <cmd>Serve immediately</cmd>
             </step>
         </steps>
     </taskbody>
