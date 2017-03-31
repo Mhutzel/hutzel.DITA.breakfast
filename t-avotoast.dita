@@ -57,11 +57,8 @@
                 <cmd>Toast the slices of bread</cmd> 
                 <info><note audience="armando">Check out this <xref href="http://www.peta.org/living/food/baked-goods/" format="html" scope="external"> list of breads</xref>to be sure that you're buying vegan.</note></info>
             </step>
-            <step audience="armando">
-                <cmd>To assemble, slather the slices of toast with mashed avocado and top with sauteed mushrooms</cmd>
-            </step>
             <step>
-                <cmd>To assemble, slather the slices of toast with mashed avocado and top with bacon and crumbled goat cheese (optional)</cmd>
+                <cmd>To assemble, slather the slices of toast with mashed avocado and top with <keyword keyref="bacon"></keyword></cmd>
             </step>
             <step>
                 <cmd>Serve immediately</cmd>

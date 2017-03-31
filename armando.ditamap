@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map audience="armando">
+ <title>Vegan Breakfast Guide</title>
+  
+  <keydef keys="bacon">
+    <topicmeta>
+     <keywords>
+       <keyword>sauteed mushrooms</keyword>
+     </keywords>
+    </topicmeta>   
+  </keydef>
+  
+ <topicref href="c-breakfast.dita"/>
+ <topicref href="t-omelette.dita"/>
+ <topicref href="t-avotoast.dita"/>
+ <topicref href="t-potatoes.dita"/>
+ <topicref href="t-smoothie.dita"/>
+ <topicref href="t-lemoncake.dita"/>
+ <topicref href="t-cleaning.md" format="markdown"/>
+  
+  
+</map>
