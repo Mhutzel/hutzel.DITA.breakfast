@@ -13,7 +13,7 @@
     <p/>
     <section id="prerequisites">
       <title>Ingredients and Tools</title>
-      <p>For this recipe, you will need a sift, a 5x9in bread pan, a large mixing bowl, and a hand mixer. Ingredients are as follows: </p>
+      <p>For this recipe, you will need a sift, a 5 x 9in bread pan, a large mixing bowl, and a hand mixer. Ingredients are as follows: </p>
       <ol id="cake">
         <li><p>2 cups flour</p></li>
         <li><p>1 tsp baking powder</p></li>
@@ -24,8 +24,8 @@
         <li><p>1/2 cup olive oil</p></li>
         <li><p>1 1/2 tbsp water</p></li>
         <li><p>1 cup plain yogurt</p></li>
-        <li id="yogurt"><p>1 cup Plain So Delicious Dairy Free Coconut milk yogurt alternative</p></li>
-        <li audience="armando"><p>1/4 cup vegan butter, melter</p></li>
+        <li props="audience-armando"><p>1 cup Plain So Delicious Dairy Free Coconut milk yogurt alternative</p></li>
+        <li props="audience-armando"><p>1/4 cup vegan butter, melter</p></li>
         <li><p>1/4 cup butter, melted</p></li>
         <li><p>2 tsp vanilla extract</p></li>
         <li><p>1/4 cup lemon juice</p></li>
@@ -33,8 +33,8 @@
       </ol>  
       <ol id="frosting">
         <li><p>1 cup plain yogurt</p></li>
-        <li audience="armando"><p>1 cup Plain So Delicious Dairy Free Coconut milk yogurt alternative</p></li>
-        <li audience="armando"><p>3 1/2 sticks vegan butter, room temperature</p></li>
+        <li props="audience-armando"><p>1 cup Plain So Delicious Dairy Free Coconut milk yogurt alternative</p></li>
+        <li props="audience-armando"><p>3 1/2 sticks vegan butter, room temperature</p></li>
         <li><p>3 1/2 sicks butter, room temperature</p></li>
         <li><p>7 1/2 cups powdered sugar</p></li>
       </ol>
@@ -66,5 +66,11 @@
  <section id="postrequisites">
    <p>Slice the cake to serve. Be sure to wrap with plastic wrap to store when finished so the cake remains moist</p>
  </section>
+    <section>
+      <fig>
+        <title>Raspberry Lemon Cake with Cream Cheese Frosting</title>
+        <image href="images/lemoncake.jpg"/>
+      </fig>
+    </section>
   </body>
 </topic>

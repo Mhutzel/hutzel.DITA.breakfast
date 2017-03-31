@@ -48,9 +48,7 @@
             </step>
             <step audience="armando">
                 <cmd>Sprinkle with a little more salt and pepper before serving.</cmd>
-        <stepresult>You will have a filling breakfast side dish that can be enjoyed by a big Sunday brunch crowd or saved for more breakfasts in the future.<fig id="potatoes">
-                        <title>Best Ever Breakfast Potatoes</title>
-                    </fig><image href="images/potatoes.jpg" id="image_bnt_4dp_jz"/></stepresult>
+        <stepresult>You will have a filling breakfast side dish that can be enjoyed by a big Sunday brunch crowd or saved for more breakfasts in the future.<fig id="potatoes"><title>Best Ever Breakfast Potatoes</title></fig><image href="images/potatoes.jpg" id="image_bnt_4dp_jz"/></stepresult>
             </step>
         </steps>
         <postreq>Store the leftover potatoes in an airtight container in the fridge. Let other people know they're in there so they don't go to waste!</postreq>

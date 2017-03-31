@@ -40,7 +40,7 @@
             </step>
             <step>
                 <cmd>Serve immediately or place in refrigerate until ready to eat</cmd>
-                <stepresult><fig><image href="images/smoothie.jpg"></image></fig>
+                <stepresult><fig><title>Peanut Butter and Oatmeal Smoothie</title><image href="images/smoothie.jpg"></image></fig>
                 </stepresult>
             </step>
         </steps>
