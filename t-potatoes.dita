@@ -32,13 +32,10 @@
                 <cmd>Preheat oven to 425 degrees F</cmd>
             </step>
             <step audience="mom">
-                <cmd>In a large bowl, toss together the potatoes, garlic, onion, green bell pepper, red bell pepper, olive oil, butter, seasoned salt, cayenne pepper and some kosher salt and pepper.</cmd>
-            </step>
-            <step audience="armando">
-                <cmd>In a large bowl, toss together the potatoes, garlic, onion, green bell pepper, red bell pepper, olive oil, Earth Balance Vegan Buttery Stick, seasoned salt, cayenne pepper and some kosher salt and pepper.</cmd>
+                <cmd>In a large bowl, toss together the potatoes, garlic, onion, green bell pepper, red bell pepper, olive oil, <keyword keyref="butter"/>, seasoned salt, cayenne pepper and some kosher salt and pepper.</cmd>
             </step>
             <step>
-                <cmd>Bake for 20-25 minutes, shaking the pans twice</cmd>
+                <cmd>Bake for 20-25 minutes, shaking the pan twice</cmd>
             </step>
             <step>
                 <cmd>Raise the heat to 500 degrees and bake until crisp and brown, 10 to 15 minutes</cmd> 

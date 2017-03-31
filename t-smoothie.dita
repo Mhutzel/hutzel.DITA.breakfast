@@ -6,7 +6,7 @@
     <taskbody>
         <prereq>For this recipe you will need a blender. Ingredients are as follows:            <ul>
             <li audience="armando">1/2 cup soy milk</li>
-            <li>1/2 cup milk</li>
+            <li audience="mom">1/2 cup milk</li>
             <li>2 tbsp peanut butter</li>
             <li>1 whole banana</li>
             <li>1/4 cup old-fashioned oats</li>

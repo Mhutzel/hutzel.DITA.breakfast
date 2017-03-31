@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Ultimate Breakfast Guide</title>
+ 
+ <keydef keys="butter">
+  <topicmeta>
+   <keywords>
+    <keyword>butter</keyword>
+   </keywords>
+  </topicmeta>
+ </keydef>
+ 
+ <topicref href="c-breakfast.dita"/>
+ <topicref href="t-omelette.dita"/>
+ <topicref href="t-avotoast.dita"/>
+ <topicref href="t-potatoes.dita"/>
+ <topicref href="t-smoothie.dita"/>
+ <topicref href="t-lemoncake.dita"/>
+ <topicref href="t-cleaning.md" format="markdown"/>
+ 
+ 
+ 
+</map>

@@ -11,6 +11,14 @@
     </topicmeta>   
   </keydef>
   
+  <keydef keys="butter">
+    <topicmeta>
+      <keywords>
+        <keyword>Earth Balance Vegan Buttery Stick</keyword>
+      </keywords>
+    </topicmeta>
+  </keydef>
+  
  <topicref href="c-breakfast.dita"/>
  <topicref href="t-omelette.dita"/>
  <topicref href="t-avotoast.dita"/>
