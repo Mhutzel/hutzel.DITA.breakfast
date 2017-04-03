@@ -61,10 +61,15 @@
             <step>
                 <cmd>Carefully remove from oven with oven mitt and fold over gently with a spatula. If it doesn’t want to fold, you can serve it scrambled!</cmd>
             </step>
-           <step>
+           <step id="serve">
                <cmd>Serve with desired toppings and enjoy</cmd>
             <stepresult>You should expect a full stomach after enjoying this wholesome omelette!<fig><image href="images/omelette.jpg"></image></fig></stepresult>
            </step>
         </steps>
+       <postreq>If you're still not full, follow the recipe link below to make avocado toast!
+       </postreq>
     </taskbody>
+<related-links>
+    <link href="t-avotoast.dita"></link>
+</related-links>
 </task>

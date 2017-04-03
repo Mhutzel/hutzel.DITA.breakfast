@@ -36,11 +36,15 @@
                 <cmd>Place lid back on blender and blend on a medium speed for 30-60 seconds until smoothie is at desired consistency</cmd>
             </step>
             <step>
-                <cmd>Pour smoothie into glass and garnish with banana slices if desired</cmd>
+                <cmd>Pour smoothie into glass</cmd>
             </step>
-            <step>
-                <cmd>Serve immediately or place in refrigerate until ready to eat</cmd>
-                <stepresult><fig><title>Peanut Butter and Oatmeal Smoothie</title><image href="images/smoothie.jpg"></image></fig>
+            <step id="t-omelette.dita/#t-omelette/serve">
+                <cmd conref="omelette"/>
+                <stepresult>
+                    <fig>
+                        <title>Peanut Butter and Oatmeal Smoothie</title>
+                        <image href="images/smoothie.jpg"/>
+                    </fig>
                 </stepresult>
             </step>
         </steps>

@@ -7,5 +7,4 @@ Here's how to properly clean up the kitchen after making breakfast so your roomm
     * **Note**: certain pots and pans may not fit in the dishwasher and may need to be hand washed. Place these on the drying mat when finished
 3. Wipe down the counters with a sponge
 
-
-
+![Part of cooking is cleaning up.](http://wdy.h-cdn.co/assets/15/53/980x490/landscape-1451421391-gettyimages-169270362.jpg)
