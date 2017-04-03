@@ -11,6 +11,14 @@
   </topicmeta>
  </keydef>
  
+ <keydef keys="restaurant">
+  <topicmeta>
+   <keywords>
+    <keyword>Lefty's</keyword>
+   </keywords>
+  </topicmeta>
+ </keydef>
+ 
  <topicref href="c-breakfast.dita"/>
  <topicref href="t-omelette.dita"/>
  <topicref href="t-avotoast.dita"/>
@@ -18,5 +26,6 @@
  <topicref href="t-smoothie.dita"/>
  <topicref href="t-lemoncake.dita"/>
  <topicref href="r-sources.dita"></topicref>
+ <topicref href="c-eatingout.dita"></topicref>
  
 </map>

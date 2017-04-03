@@ -19,6 +19,14 @@
     </topicmeta>
   </keydef>
   
+  <keydef keys="restaurant">
+    <topicmeta>
+      <keywords>
+        <keyword>Gillie's</keyword>
+      </keywords>
+    </topicmeta>
+  </keydef>
+  
  <topicref href="c-breakfast.dita"/>
  <topicref href="navigate.md" format="markdown"></topicref>
  <topicref href="t-omelette.dita"/>
@@ -28,6 +36,7 @@
  <topicref href="t-lemoncake.dita"/>
  <topicref href="t-cleaning.md" format="markdown"/>
  <topicref href="r-sources.dita"></topicref>
+ <topicref href="c-eatingout.dita"></topicref>
   
   
 </map>
