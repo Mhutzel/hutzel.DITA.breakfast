@@ -28,7 +28,16 @@
   </keydef>
   
   <topicref href="c-breakfast.dita"/>
-  <topicref href="navigate.md" format="markdown"></topicref>
+  
+  <topichead navtitle="Navigating the Kitchen">
+  <topicref href="navigate.md" format="markdown">
+    <topicmeta>
+      <shortdesc>
+        This will show you where to find the ingredients and tools you need in the kitchen
+      </shortdesc>
+    </topicmeta>
+  </topicref>
+  </topichead>
   
   <topichead navtitle="Appetizers">
     <topicref href="t-avotoast.dita" navtitle="Avocado Toast"/>

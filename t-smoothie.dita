@@ -38,7 +38,7 @@
             <step>
                 <cmd>Pour smoothie into glass</cmd>
             </step>
-            <step conref="t-omelette.dita/#t-omelette/serve">
+            <step conref="t-omelette.dita#t-omelette/serve">
             </step>
         </steps>
         <result><fig>
