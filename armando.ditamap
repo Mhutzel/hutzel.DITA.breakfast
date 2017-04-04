@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map audience="armando">
- <title>Vegan Breakfast Guide</title>
+ <title>Ultimate Vegan Breakfast Guide</title>
   
   <keydef keys="bacon">
     <topicmeta>
@@ -29,7 +29,7 @@
   
   <topicref href="c-breakfast.dita"/>
   
-  <topichead navtitle="Navigating the Kitchen">
+  <topichead navtitle="Ingredients and Tools">
   <topicref href="navigate.md" format="markdown">
     <topicmeta>
       <shortdesc>

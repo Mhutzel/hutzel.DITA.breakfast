@@ -28,7 +28,7 @@
              <li><b>Cook time: 10-15 minutes</b></li>
              <li><b>Serves: 1</b></li>
             </ul>             
-           <p>Directions:</p>    
+           <p><b>Directions:</b></p>    
         </context>
         <steps>
             <step>
@@ -62,14 +62,14 @@
                 <cmd>Carefully remove from oven with oven mitt and fold over gently with a spatula. If it doesn’t want to fold, you can serve it scrambled!</cmd>
             </step>
            <step id="serve">
-               <cmd>Serve with desired toppings and enjoy</cmd>
-            <stepresult>You should expect a full stomach after enjoying this wholesome omelette!<fig><image href="images/omelette.jpg"></image></fig></stepresult>
+               <cmd>Serve with desired toppings and enjoy!</cmd>
            </step>
         </steps>
-       <postreq>If you're still not full, follow the recipe link below to make avocado toast!
+        <result>You should expect a full stomach after enjoying this wholesome omelette!<fig><image href="images/omelette.jpg"></image></fig></result>
+       <postreq>If you're still not full, follow the recipe link below to make some potatoes to go along with your omelette!
        </postreq>
     </taskbody>
 <related-links>
-    <link href="t-avotoast.dita"></link>
+    <link href="t-potatoes.dita"></link>
 </related-links>
 </task>

@@ -5,7 +5,7 @@
    <appContext helpID="t-avocadotoast" path="t-avotoast.html"/>
    <appContext helpID="t-omelette" path="t-omelette.html"/>
    <appContext helpID="t-potatoes" path="t-potatoes.html"/>
-   <appContext helpID="" path="t-smoothie.html"/>
+   <appContext helpID="t-smoothie" path="t-smoothie.html"/>
    <appContext helpID="t-lemoncake" path="t-lemoncake.html"/>
    <appContext helpID="how_to_clean_the_kitchen" path="t-cleaning.html"/>
    <appContext helpID="topic_tpw_tc4_lz" path="r-sources.html"/>

@@ -6,7 +6,7 @@
     <taskbody>
         <prereq> This recipe requires a skillet and a knife. You will also need the following ingredients:
             <ul>
-                <li>2 slices cooked bacon, crumbled</li>
+                <li audience="mom">2 slices cooked bacon, crumbled</li>
                 <li audience="armando">6 oz baby Portobello mushrooms, washed and sliced</li>
                 <li audience="armando">1 1/2 tbsp olive oil</li> 
                 <li>1 avocado
@@ -14,8 +14,8 @@
                 </li>
                 <li>1 lime, halved</li>
                 <li conref="t-potatoes.dita#t-potatoes/saltpepper"></li>
-                <li>optional: chili flakes to taste</li>
-                <li>optional: crumbled goat cheese to taste</li>
+                <li>chili flakes to taste (optional)</li>
+                <li audience="mom">crumbled goat cheese to taste (optional)</li>
                 <li>2 slices of bread</li>               
             </ul>           
         </prereq>
@@ -23,10 +23,10 @@
             <ul>
                 <li><b>Prep time: 10 minutes</b></li>
                 <li audience="armando"><b>Cook time: 15 minutes </b></li>
-                <li><b>Cook time: 5 minutes</b></li>
+                <li audience="mom"><b>Cook time: 5 minutes</b></li>
                 <li><b>Serves: 1</b></li>
             </ul>
-            <p>Directions:</p>
+            <p><b>Directions:</b></p>
         </context>
         <steps>
             <step audience="armando">
@@ -48,7 +48,7 @@
                 </substeps>
                 </step>
                 <step>
-                    <cmd>Add the flesh of the avocado to a bowl along with the juice of one lime</cmd>
+                    <cmd>Scoop out the flesh of the avocado and add it to a bowl along with the juice of one lime</cmd>
                 </step>
                 <step>
                     <cmd>Use a fork to mash the avocado and season with salt, pepper and chili flakes (optional)</cmd>

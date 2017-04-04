@@ -18,7 +18,7 @@
                 <li><b>Cook time: 5 minutes</b></li>
                 <li><b>Serves: 1</b></li>
             </ul>
-            <p>Directions:</p>
+            <p><b>Directions:</b></p>
         </context>
         <steps>
             <step>
@@ -30,7 +30,6 @@
             </step>
             <step>
                 <cmd>Remove lid and stir ingredients</cmd>
-                <info><note type="caution"></note></info>
             </step>
             <step>
                 <cmd>Place lid back on blender and blend on a medium speed for 30-60 seconds until smoothie is at desired consistency</cmd>
@@ -38,7 +37,9 @@
             <step>
                 <cmd>Pour smoothie into glass</cmd>
             </step>
-            <step conref="t-omelette.dita#t-omelette/serve"></step>            
+            <step conref="t-omelette.dita#t-omelette/serve">
+                <cmd></cmd>
+            </step>            
         </steps>
         <result><fig>
             <title>Peanut Butter and Oatmeal Smoothie</title>

@@ -14,7 +14,7 @@
     <section id="prerequisites">
       <title>Ingredients and Tools</title>
       <p>For this recipe, you will need a sift, a 5 x 9in bread pan, a large mixing bowl, and a hand mixer. Ingredients are as follows: </p>
-      <ol id="cake">
+      <ul id="cake">
         <li><p>2 cups flour</p></li>
         <li><p>1 tsp baking powder</p></li>
         <li><p>1 tsp baking soda</p></li>
@@ -23,24 +23,24 @@
         <li><p>zest of 1 lemon</p></li>
         <li><p>1/2 cup olive oil</p></li>
         <li><p>1 1/2 tbsp water</p></li>
-        <li><p>1 cup plain yogurt</p></li>
+        <li props="mom"><p>1 cup plain yogurt</p></li>
         <li props="audience-armando"><p>1 cup Plain So Delicious Dairy Free Coconut milk yogurt alternative</p></li>
         <li props="audience-armando"><p>1/4 cup vegan butter, melter</p></li>
-        <li><p>1/4 cup butter, melted</p></li>
+        <li props="mom"><p>1/4 cup butter, melted</p></li>
         <li><p>2 tsp vanilla extract</p></li>
         <li><p>1/4 cup lemon juice</p></li>
         <li><p>1 cup raspberries</p></li>
-      </ol>  
-      <ol id="frosting">
-        <li><p>1 cup plain yogurt</p></li>
+      </ul>  
+      <ul id="frosting">
+        <li props="mom"><p>1 cup plain yogurt</p></li>
         <li props="audience-armando"><p>1 cup Plain So Delicious Dairy Free Coconut milk yogurt alternative</p></li>
         <li props="audience-armando"><p>3 1/2 sticks vegan butter, room temperature</p></li>
-        <li><p>3 1/2 sicks butter, room temperature</p></li>
+        <li props="mom"><p>3 1/2 sicks butter, room temperature</p></li>
         <li><p>7 1/2 cups powdered sugar</p></li>
-      </ol>
+      </ul>
     </section>
     <section id="directions">
-      <p>Directions</p>
+      <p><b>Directions</b></p>
     </section>
     <section id="cakesteps">
      <p>For the cake:</p>
@@ -56,7 +56,7 @@
    <section id="frostingsteps">
      <p>For the frosting:</p>
      <ol>
-       <li><p>In a large mixing bowl, add the 3 1/2 sticks of vegan butter, 2 cups of powdered sugar and half of the vanilla yogurt alternative. Beat using a hand mixer until creamed and combined</p></li>
+       <li><p>In a large mixing bowl, add the 3 1/2 sticks of butter , 2 cups of powdered sugar and half of the vanilla yogurt. Beat using a hand mixer until creamed and combined</p></li>
        <li><p>Add in an additional 2 cups of powdered sugar and beat to incorporate</p></li>
        <li><p>Add remaining yogurt and another 2 cups powdered sugar. Beat to combine</p></li>
        <li><p>Add additional powdered sugar 1/2 cup at a time until the desired consistency is reached. It should be between 7 and 8 cups total</p></li>

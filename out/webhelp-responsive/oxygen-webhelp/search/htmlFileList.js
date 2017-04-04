@@ -9,4 +9,5 @@ fl["5"]= "t-cleaning.html";
 fl["6"]= "t-lemoncake.html";
 fl["7"]= "t-omelette.html";
 fl["8"]= "t-potatoes.html";
+fl["9"]= "t-smoothie.html";
 var doStem = false;searchLoaded = true;
