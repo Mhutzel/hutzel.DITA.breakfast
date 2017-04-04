@@ -62,11 +62,9 @@
             </step>
             <step>
                 <cmd>Serve immediately</cmd>
-                <stepresult audience="armando">
-                    <fig><image href="images/armandotoast.jpg"></image></fig>
-                </stepresult>
-                <stepresult audience="mom">
-                    <fig><image href="images/momtoast.jpg"></image></fig>
+                <stepresult>
+                    <fig audience="armando"><image href="images/armandotoast.jpg"></image></fig>
+                    <fig audience="mom"><image href="images/momtoast.jpg"></image></fig>
                 </stepresult>
             </step>
         </steps>
