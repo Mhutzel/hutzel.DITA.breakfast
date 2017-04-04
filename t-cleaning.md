@@ -1,4 +1,4 @@
-# How to clean the kitchen
+# How to Clean the Kitchen
 
 Here's how to properly clean up the kitchen after making breakfast so your roommates don't think you're a slob. 
 

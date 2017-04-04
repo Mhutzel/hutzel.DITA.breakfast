@@ -13,7 +13,7 @@
                     <note>Peel back the stem of the avocado to check for ripeness. If it comes away easily and is green underneath it is ripe and ready to eat. </note>
                 </li>
                 <li>1 lime, halved</li>
-                <li id="saltpepper"></li>
+                <li conref="t-potatoes.dita#t-potatoes/saltpepper"></li>
                 <li>optional: chili flakes to taste</li>
                 <li>optional: crumbled goat cheese to taste</li>
                 <li>2 slices of bread</li>               
@@ -21,10 +21,10 @@
         </prereq>
         <context>
             <ul>
-                <li>Prep time: 10 minutes</li>
-                <li audience="armando">Cook time: 15 minutes </li>
-                <li>Cook time: 5 minutes</li>
-                <li>Serves: 1</li>
+                <li><b>Prep time: 10 minutes</b></li>
+                <li audience="armando"><b>Cook time: 15 minutes </b></li>
+                <li><b>Cook time: 5 minutes</b></li>
+                <li><b>Serves: 1</b></li>
             </ul>
             <p>Directions:</p>
         </context>
