@@ -3,6 +3,14 @@
 <map>
  <title>Ultimate Breakfast Guide</title>
  
+ <keydef keys="bacon">
+  <topicmeta>
+   <keywords>
+    <keyword>bacon</keyword>
+   </keywords>
+  </topicmeta>   
+ </keydef>
+ 
  <keydef keys="butter">
   <topicmeta>
    <keywords>

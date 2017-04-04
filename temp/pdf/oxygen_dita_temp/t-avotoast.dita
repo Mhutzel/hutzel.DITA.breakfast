@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /Users/maggiehutzel/Documents/Senior Year/Spring 2017/User Docs/ditabreakfast/ditabreakfast/hutzel.DITA.breakfast/temp/pdf/oxygen_dita_temp?><?workdir-uri file:/Users/maggiehutzel/Documents/Senior%20Year/Spring%202017/User%20Docs/ditabreakfast/ditabreakfast/hutzel.DITA.breakfast/temp/pdf/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="t-avocadotoast" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic task/task " xtrf="file:/Users/maggiehutzel/Documents/Senior%20Year/Spring%202017/User%20Docs/ditabreakfast/ditabreakfast/hutzel.DITA.breakfast/t-avotoast.dita" xtrc="task:1;3:27">
+    <title class="- topic/title " xtrf="file:/Users/maggiehutzel/Documents/Senior%20Year/Spring%202017/User%20Docs/ditabreakfast/ditabreakfast/hutzel.DITA.breakfast/t-avotoast.dita" xtrc="title:1;4:12">Avocado Toast</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/Users/maggiehutzel/Documents/Senior%20Year/Spring%202017/User%20Docs/ditabreakfast/ditabreakfast/hutzel.DITA.breakfast/t-avotoast.dita" xtrc="shortdesc:1;5:16">Avocado toast is so trendy right now and allows you to come up with new twists and variations on the original.</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/Users/maggiehutzel/Documents/Senior%20Year/Spring%202017/User%20Docs/ditabreakfast/ditabreakfast/hutzel.DITA.breakfast/t-avotoast.dita" xtrc="taskbody:1;6:15">
+        <prereq class="- topic/section task/prereq " xtrf="file:/Users/maggiehutzel/Documents/Senior%20Year/Spring%202017/User%20Docs/ditabreakfast/ditabreakfast/hutzel.DITA.breakfast/t-avotoast.dita" xtrc="prereq:1;7:17"> This recipe requires a skillet and a knife. You will also need the following ingredients:
+            <ul class="- topic/ul " xtrf="file:/Users/maggiehutzel/Documents/Senior%20Year/Spring%202017/User%20Docs/ditabreakfast/ditabreakfast/hutzel.DITA.breakfast/t-avotoast.dita" xtrc="ul:1;8:17">
+                <li audience="mom" class="- topic/li " xtrf="file:/Users/maggiehutzel/Documents/Senior%20Year/Spring%202017/User%20Docs/ditabreakfast/ditabreakfast/hutzel.DITA.breakfast/t-avotoast.dita" xtrc="li:1;9:36">2 slices cooked bacon, crumbled</li>
+                
+                 
+                <li class="- topic/li " xtrf="file:/Users/maggiehutzel/Documents/Senior%20Year/Spring%202017/User%20Docs/ditabreakfast/ditabreakfast/hutzel.DITA.breakfast/t-avotoast.dita" xtrc="li:4;12:21">1 avocado
+                    <note class="- topic/note " xtrf="file:/Users/maggiehutzel/Documents/Senior%20Year/Spring%202017/User%20Docs/ditabreakfast/ditabreakfast/hutzel.DITA.breakfast/t-avotoast.dita" xtrc="note:1;13:27">Peel back the stem of the avocado to check for ripeness. If it comes away easily and is green underneath it is ripe and ready to eat. </note>
+                </li>
+                <li class="- topic/li " xtrf="file:/Users/maggiehutzel/Documents/Senior%20Year/Spring%202017/User%20Docs/ditabreakfast/ditabreakfast/hutzel.DITA.breakfast/t-avotoast.dita" xtrc="li:5;15:21">1 lime, halved</li>
+                <li class="- topic/li " xtrf="file:/Users/maggiehutzel/Documents/Senior%20Year/Spring%202017/User%20Docs/ditabreakfast/ditabreakfast/hutzel.DITA.breakfast/t-potatoes.dita" xtrc="li:11;18:29">Kosher salt and freshly ground black pepper to taste</li>
+                <li class="- topic/li " xtrf="file:/Users/maggiehutzel/Documents/Senior%20Year/Spring%202017/User%20Docs/ditabreakfast/ditabreakfast/hutzel.DITA.breakfast/t-avotoast.dita" xtrc="li:7;17:21">chili flakes to taste (optional)</li>
+                <li audience="mom" class="- topic/li " xtrf="file:/Users/maggiehutzel/Documents/Senior%20Year/Spring%202017/User%20Docs/ditabreakfast/ditabreakfast/hutzel.DITA.breakfast/t-avotoast.dita" xtrc="li:8;18:36">crumbled goat cheese to taste (optional)</li>
+                <li class="- topic/li " xtrf="file:/Users/maggiehutzel/Documents/Senior%20Year/Spring%202017/User%20Docs/ditabreakfast/ditabreakfast/hutzel.DITA.breakfast/t-avotoast.dita" xtrc="li:9;19:21">2 slices of bread</li>               
+            </ul>           
+        </prereq>
+        <context class="- topic/section task/context " xtrf="file:/Users/maggiehutzel/Documents/Senior%20Year/Spring%202017/User%20Docs/ditabreakfast/ditabreakfast/hutzel.DITA.breakfast/t-avotoast.dita" xtrc="context:1;22:18">
+            <ul class="- topic/ul " xtrf="file:/Users/maggiehutzel/Documents/Senior%20Year/Spring%202017/User%20Docs/ditabreakfast/ditabreakfast/hutzel.DITA.breakfast/t-avotoast.dita" xtrc="ul:2;23:17">
+                <li class="- topic/li " xtrf="file:/Users/maggiehutzel/Documents/Senior%20Year/Spring%202017/User%20Docs/ditabreakfast/ditabreakfast/hutzel.DITA.breakfast/t-avotoast.dita" xtrc="li:10;24:21"><b class="+ topic/ph hi-d/b " xtrf="file:/Users/maggiehutzel/Documents/Senior%20Year/Spring%202017/User%20Docs/ditabreakfast/ditabreakfast/hutzel.DITA.breakfast/t-avotoast.dita" xtrc="b:1;24:24">Prep time: 10 minutes</b></li>
+                
+                <li audience="mom" class="- topic/li " xtrf="file:/Users/maggiehutzel/Documents/Senior%20Year/Spring%202017/User%20Docs/ditabreakfast/ditabreakfast/hutzel.DITA.breakfast/t-avotoast.dita" xtrc="li:12;26:36"><b class="+ topic/ph hi-d/b " xtrf="file:/Users/maggiehutzel/Documents/Senior%20Year/Spring%202017/User%20Docs/ditabreakfast/ditabreakfast/hutzel.DITA.breakfast/t-avotoast.dita" xtrc="b:3;26:39">Cook time: 5 minutes</b></li>
+                <li class="- topic/li " xtrf="file:/Users/maggiehutzel/Documents/Senior%20Year/Spring%202017/User%20Docs/ditabreakfast/ditabreakfast/hutzel.DITA.breakfast/t-avotoast.dita" xtrc="li:13;27:21"><b class="+ topic/ph hi-d/b " xtrf="file:/Users/maggiehutzel/Documents/Senior%20Year/Spring%202017/User%20Docs/ditabreakfast/ditabreakfast/hutzel.DITA.breakfast/t-avotoast.dita" xtrc="b:4;27:24">Serves: 1</b></li>
+            </ul>
+            <p class="- topic/p " xtrf="file:/Users/maggiehutzel/Documents/Senior%20Year/Spring%202017/User%20Docs/ditabreakfast/ditabreakfast/hutzel.DITA.breakfast/t-avotoast.dita" xtrc="p:1;29:16"><b class="+ topic/ph hi-d/b " xtrf="file:/Users/maggiehutzel/Documents/Senior%20Year/Spring%202017/User%20Docs/ditabreakfast/ditabreakfast/hutzel.DITA.breakfast/t-avotoast.dita" xtrc="b:5;29:19">Directions:</b></p>
+        </context>
+        <steps class="- topic/ol task/steps " xtrf="file:/Users/maggiehutzel/Documents/Senior%20Year/Spring%202017/User%20Docs/ditabreakfast/ditabreakfast/hutzel.DITA.breakfast/t-avotoast.dita" xtrc="steps:1;31:16">
+            
+            <step class="- topic/li task/step " xtrf="file:/Users/maggiehutzel/Documents/Senior%20Year/Spring%202017/User%20Docs/ditabreakfast/ditabreakfast/hutzel.DITA.breakfast/t-avotoast.dita" xtrc="step:2;35:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/maggiehutzel/Documents/Senior%20Year/Spring%202017/User%20Docs/ditabreakfast/ditabreakfast/hutzel.DITA.breakfast/t-avotoast.dita" xtrc="cmd:2;36:22">Slice open the avocado</cmd>
+                <substeps class="- topic/ol task/substeps " xtrf="file:/Users/maggiehutzel/Documents/Senior%20Year/Spring%202017/User%20Docs/ditabreakfast/ditabreakfast/hutzel.DITA.breakfast/t-avotoast.dita" xtrc="substeps:1;37:27">
+                
+                
+                
+                </substeps>
+                </step>
+                <step class="- topic/li task/step " xtrf="file:/Users/maggiehutzel/Documents/Senior%20Year/Spring%202017/User%20Docs/ditabreakfast/ditabreakfast/hutzel.DITA.breakfast/t-avotoast.dita" xtrc="step:3;50:23">
+                    <cmd class="- topic/ph task/cmd " xtrf="file:/Users/maggiehutzel/Documents/Senior%20Year/Spring%202017/User%20Docs/ditabreakfast/ditabreakfast/hutzel.DITA.breakfast/t-avotoast.dita" xtrc="cmd:6;51:26">Scoop out the flesh of the avocado and add it to a bowl along with the juice of one lime</cmd>
+                </step>
+                <step class="- topic/li task/step " xtrf="file:/Users/maggiehutzel/Documents/Senior%20Year/Spring%202017/User%20Docs/ditabreakfast/ditabreakfast/hutzel.DITA.breakfast/t-avotoast.dita" xtrc="step:4;53:23">
+                    <cmd class="- topic/ph task/cmd " xtrf="file:/Users/maggiehutzel/Documents/Senior%20Year/Spring%202017/User%20Docs/ditabreakfast/ditabreakfast/hutzel.DITA.breakfast/t-avotoast.dita" xtrc="cmd:7;54:26">Use a fork to mash the avocado and season with salt, pepper and chili flakes (optional)</cmd>
+                </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/maggiehutzel/Documents/Senior%20Year/Spring%202017/User%20Docs/ditabreakfast/ditabreakfast/hutzel.DITA.breakfast/t-avotoast.dita" xtrc="step:5;56:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/maggiehutzel/Documents/Senior%20Year/Spring%202017/User%20Docs/ditabreakfast/ditabreakfast/hutzel.DITA.breakfast/t-avotoast.dita" xtrc="cmd:8;57:22">Toast the slices of bread</cmd> 
+                <info class="- topic/itemgroup task/info " xtrf="file:/Users/maggiehutzel/Documents/Senior%20Year/Spring%202017/User%20Docs/ditabreakfast/ditabreakfast/hutzel.DITA.breakfast/t-avotoast.dita" xtrc="info:2;58:23"/>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/maggiehutzel/Documents/Senior%20Year/Spring%202017/User%20Docs/ditabreakfast/ditabreakfast/hutzel.DITA.breakfast/t-avotoast.dita" xtrc="step:6;60:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/maggiehutzel/Documents/Senior%20Year/Spring%202017/User%20Docs/ditabreakfast/ditabreakfast/hutzel.DITA.breakfast/t-avotoast.dita" xtrc="cmd:9;61:22">To assemble, slather the slices of toast with mashed avocado and top with <keyword keyref="bacon" class="- topic/keyword " xtrf="file:/Users/maggiehutzel/Documents/Senior%20Year/Spring%202017/User%20Docs/ditabreakfast/ditabreakfast/hutzel.DITA.breakfast/t-avotoast.dita" xtrc="keyword:1;61:120"/></cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/maggiehutzel/Documents/Senior%20Year/Spring%202017/User%20Docs/ditabreakfast/ditabreakfast/hutzel.DITA.breakfast/t-avotoast.dita" xtrc="step:7;63:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/maggiehutzel/Documents/Senior%20Year/Spring%202017/User%20Docs/ditabreakfast/ditabreakfast/hutzel.DITA.breakfast/t-avotoast.dita" xtrc="cmd:10;64:22">Serve immediately</cmd>
+                <stepresult class="- topic/itemgroup task/stepresult " xtrf="file:/Users/maggiehutzel/Documents/Senior%20Year/Spring%202017/User%20Docs/ditabreakfast/ditabreakfast/hutzel.DITA.breakfast/t-avotoast.dita" xtrc="stepresult:1;65:29">
+                    
+                    <fig audience="mom" class="- topic/fig " xtrf="file:/Users/maggiehutzel/Documents/Senior%20Year/Spring%202017/User%20Docs/ditabreakfast/ditabreakfast/hutzel.DITA.breakfast/t-avotoast.dita" xtrc="fig:2;67:41"><image href="images/momtoast.jpg" placement="inline" class="- topic/image " xtrf="file:/Users/maggiehutzel/Documents/Senior%20Year/Spring%202017/User%20Docs/ditabreakfast/ditabreakfast/hutzel.DITA.breakfast/t-avotoast.dita" xtrc="image:2;67:75"/></fig>
+                </stepresult>
+            </step>
+        </steps>
+        <postreq class="- topic/section task/postreq " xtrf="file:/Users/maggiehutzel/Documents/Senior%20Year/Spring%202017/User%20Docs/ditabreakfast/ditabreakfast/hutzel.DITA.breakfast/t-avotoast.dita" xtrc="postreq:1;71:18"/>
+    </taskbody>
+</task>

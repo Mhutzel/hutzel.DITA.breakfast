@@ -1,0 +1,9 @@
+fil = new Array();
+fil["0"]= "c-breakfast.html@@@Breakfast Guide@@@With these recipes, you&apos;ll be able to make a delicious breakfast to satisfy your taste buds and start your day off right!...";
+fil["1"]= "c-eatingout.html@@@Tired of Cooking@@@If you&apos;re too tired to cook or don&apos;t have the right ingredients on hand but still need to start your day off right below is a list of recommended breakfast places nearby...";
+fil["2"]= "r-sources.html@@@Related Links@@@To see where the recipes were adapted from or to find more breakfast recipes follow the links below to explore! Simple Omelette: http://minimalistbaker.com/simple-vegan-omelet/ Simple Omelette...";
+fil["3"]= "t-avotoast.html@@@Avocado Toast@@@Avocado toast is so trendy right now and allows you to come up with new twists and variations on the original...";
+fil["4"]= "t-lemoncake.html@@@Raspberry Lemon Cake with Cream Cheese Frosting@@@You can&apos;t have breakfast without something sweet! This lightly sweetened cake has a lovely, balanced flavor of fresh raspberries and lemon...";
+fil["5"]= "t-omelette.html@@@Simple Omelette@@@An easy, savory, fluffy, and delicious omelette for breakfast lovers. This omelette can be filled and topped with anything you like!...";
+fil["6"]= "t-potatoes.html@@@Best Ever Breakfast Potatoes@@@These hearty and home style baked breakfast potatoes are so easy and will become a go-to recipe...";
+fil["7"]= "t-smoothie.html@@@Peanut Butter Oatmeal Smoothie@@@This smoothie is packed with protein and will satisfy your sweet tooth to save you from reaching for that doughnut...";
